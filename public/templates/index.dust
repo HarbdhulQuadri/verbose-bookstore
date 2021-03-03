@@ -2,7 +2,7 @@
 
 {<body}
 <div class="large-3 columns book">  
-        <img src="/img/pp.jpeg"> 
+        <img src="/img/1.jpeg"> 
         <h4> Professional Model Picture </h4>
         <p> Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
         <div class="price"> Buy It for <span>$1000.84</span>
@@ -10,7 +10,7 @@
             <a href="/books/details/1" class="button small"> CLick Me </a>
         </div>
         <div class="large-3 columns book">  
-            <img src="/img/zara1.jpeg"> 
+            <img src="/img/1.jpeg"> 
             <h4> Professional Model Picture </h4>
             <p> Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
             <div class="price"> Buy It for <span>$1000.84</span>
@@ -18,7 +18,7 @@
                 <a href="/books/details/1" class="button small"> CLick Me </a>
             </div>
         <div class="large-3 columns book">  
-                <img src="/img/zara2.jpeg"> 
+                <img src="/img/1.jpeg"> 
                 <h4> Professional Model Picture </h4>
                 <p> Lorem ipsum dolor sit amet consectetur adipisicing elit</p>
                 <div class="price"> Buy It for <span>$1000.84</span>
