@@ -2,10 +2,11 @@
 
 {<body}
 <div class="large-3 columns book">  
-        <img src="/img/zara1.jpeg"> 
-        <h4> Professional Designer</h4>
-        <p> </p>
-        <div class="price"> </div>
+        <img src="/img/pp.jpeg"> 
+        <h4> Professional Model Picture </h4>
+        <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis pariatur consequuntur omnis perferendis debitis assumenda praesentium sapiente, ipsa cumque qui atque, facere alias adipisci a placeat! Voluptatibus possimus ea vel.</p>
+        <div class="price"> Buy It for <span>$1000.84</span>
+        </div>
 
 
 </div>
