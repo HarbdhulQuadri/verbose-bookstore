@@ -1,0 +1,27 @@
+{>"layouts/master" /}
+
+{<body}
+<div class="large-3 columns book">  
+        <img src="/img/1.jpeg"> 
+        </div>
+        <div class="large-8 columns book">  
+           <h2>Seo Marketing Strategies</h2>
+           <ul class="bookInfo">
+               <li>Category : Tech</li>
+               <li>Author : AbdulQuadri</li>
+               <li>Publisher : Zara Alkali</li>
+           </ul><br>
+            <div class="price"> Buy It for <span>$100</span>
+                <br>
+                <p>Lorem ipsum dolor sit amet, 
+                    consectetur adipisicing elit. 
+                    Adipisci voluptatem quo optio 
+                    illum sequi incidunt officia quos 
+                    cumque sapiente rerum assumenda 
+                    odio sed deserunt, at vero animi, iusto expedita commodi.</p>
+                <a class="button sucess"> Add to Cart </a>
+            </div>
+     
+
+</div>
+{/body}
