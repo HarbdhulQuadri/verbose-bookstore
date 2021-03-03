@@ -5,7 +5,8 @@
         <img src="/img/zara1.jpeg"> 
         <h4> Professional Designer</h4>
         <p> </p>
-        
+        <div class="price"> </div>
+
 
 </div>
 {/body}
