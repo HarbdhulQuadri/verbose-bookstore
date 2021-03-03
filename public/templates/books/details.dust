@@ -1,7 +1,7 @@
 {>"layouts/master" /}
 
 {<body}
-<div class="large-3 columns book">  
+<div class="large-2 columns book">  
         <img src="/img/1.jpeg"> 
         </div>
         <div class="large-8 columns book">  
