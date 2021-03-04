@@ -41,7 +41,7 @@
     <div class="row">
 
         <div class="large-12 columns">
-<p> AbdulQuadri's BookStore &copy;2021</p>
+<p> AbdulQuadri's BookStore &copy;2021<a href="/manage">Manage</a></p>
         </div>
     </div>
 </footer>
